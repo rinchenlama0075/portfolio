@@ -16,5 +16,8 @@
   },
   "pages/resume.qmd": {
     "resume.html": "56931fe5"
+  },
+  "pages/blogs.qmd": {
+    "blogs.html": "861184f4"
   }
 }

@@ -1,6 +1,7 @@
 project:
   type: website
   title: "rinchenlama"
+  output-dir: docs
 
 
 website:
