@@ -1,0 +1,73 @@
+---
+title: Rinchen Lama
+---
+
+Software Engineer
+
+[Linkedin](https://www.linkedin.com/in/rinchen-lama-8292ba182/)         [Github](https://github.com/rinchenlama0075)        [Website](#)
+
+## Education	 
+Hunter College, The City University of New York, NY
+
+Bachelor’s in Computer Science
+
+## Skills and Languages 
+Software Development, Web development, App Development, Automation, Cloud Computing, Web Scraping, Data Analysis, Machine Learning, Artificial Intelligence
+
+C++, Python, ReactJS, Javascript, Swfit, SQL, Git, AWS 
+
+## Professional Experience
+
+#### Python Developer (Takeo Tech)					 
+- Consultant for Dish Network, a satellite TV broadcaster
+
+- Worked in a team of 7 Engineers in order to achieve team goals outlined in every quarter
+
+- Automated a Software Validation process using Python cutting down the time from 18+ hours to 3 minutes
+
+- As a result of the automation, deployment frequency increased from once every 3 months to once a month
+
+- Wrote validation for complex Software Architectures in a microservices framework and generated reports to analyze up to 11 different microservices.
+
+- Onboarded new team members and provide KT of the applications under development
+
+- Developed Automation projects using Python, Behave, XML, HTML5, Azure, and Selenium to test Dynamic Ad Insertion on multiple Video Streaming Platforms
+
+- Used Boto3 and various AWS services with Python to monitor, retrieve, process, and analyze logs
+
+- Re-factored, maintained, and extended large existing monolithic Python code base
+
+- Reviewed and Managed Source code, and Resolved Merge Conflicts for multiple projects
+
+- Perform End to End tests manually and automated the same process using Python with BDD
+
+
+#### Student Researcher (Google ExploreCSR)
+- Studied and applied various Machine Learning techniques for Image recognition
+
+- Used PyTorch’s Mask RCNN - an Image Recognition Neural Network model to analyze food images
+
+- Won Third place by Presenting Analyses on State of the Art ML models in the poster competition
+
+
+#### Tech Fellow (CodePath)
+- Developed multiple complete iOS Applications and Projects following CodePath’s course
+
+- Taught an iOS Development Course  to 120+ students per CodePath guidelines with a team of 4 Instructors
+
+
+## Volunteer Work
+
+#### Organizing Committee Member (PyData NYC)	
+- Planned and Organized [PyData NYC 2022](https://pydata.org/nyc2022/) as the executive vice-chair
+
+- In charge of relations with sponsors and prize distribution to event attendees [PyData NYC 2019](https://pydata.org/nyc2019/)
+
+
+#### Organizer (Executive Chair)
+- Led a team of 13 Volunteers to run an Online Hackathon, [Hackeo](https://hack.takeo.ai/), with 200+ participants successfully
+
+- Planned and Organized the entire event from recruiting the team to hosting and distributing prizes 
+
+- Led a Python workshop titled: “‘hello world!’ to automating tasks in minutes!” 
+

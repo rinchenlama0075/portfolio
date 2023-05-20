@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rinchen Lama",
+    "section": "",
+    "text": "Passionately Curious about anything that catches my interest, I have gotten my hands dirty with a variety of subjects ranging from building web and mobile applications to trainig convolutional neural networks. Whether it be analyzing data to make decisions or building specific components within large codebases, I am the person who can get it done! I am a jack of all trades who can pick up any technology and deliver results. With my love for technology, I am looking to be involved in projects that would lead to human prosperity.\nResume"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Rinchen Lama",
+    "section": "",
+    "text": "Passionately Curious about anything that catches my interest, I have gotten my hands dirty with a variety of subjects ranging from building web and mobile applications to trainig convolutional neural networks. Whether it be analyzing data to make decisions or building specific components within large codebases, I am the person who can get it done! I am a jack of all trades who can pick up any technology and deliver results. With my love for technology, I am looking to be involved in projects that would lead to human prosperity.\nResume"
+  },
+  {
+    "objectID": "index.html#blogs",
+    "href": "index.html#blogs",
+    "title": "Rinchen Lama",
+    "section": "Blogs",
+    "text": "Blogs\nRecent Posts"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Rinchen Lama",
+    "section": "Contact Me",
+    "text": "Contact Me"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Rinchen Lama",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "pages/resume.html",
+    "href": "pages/resume.html",
+    "title": "Rinchen Lama",
+    "section": "",
+    "text": "Software Engineer\nLinkedin Github Website"
+  },
+  {
+    "objectID": "pages/resume.html#education",
+    "href": "pages/resume.html#education",
+    "title": "Rinchen Lama",
+    "section": "Education",
+    "text": "Education\nHunter College, The City University of New York, NY\nBachelor’s in Computer Science"
+  },
+  {
+    "objectID": "pages/resume.html#skills-and-languages",
+    "href": "pages/resume.html#skills-and-languages",
+    "title": "Rinchen Lama",
+    "section": "Skills and Languages",
+    "text": "Skills and Languages\nSoftware Development, Web development, App Development, Automation, Cloud Computing, Web Scraping, Data Analysis, Machine Learning, Artificial Intelligence\nC++, Python, ReactJS, Javascript, Swfit, SQL, Git, AWS"
+  },
+  {
+    "objectID": "pages/resume.html#professional-experience",
+    "href": "pages/resume.html#professional-experience",
+    "title": "Rinchen Lama",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nPython Developer (Takeo Tech)\n\nConsultant for Dish Network, a satellite TV broadcaster\nWorked in a team of 7 Engineers in order to achieve team goals outlined in every quarter\nAutomated a Software Validation process using Python cutting down the time from 18+ hours to 3 minutes\nAs a result of the automation, deployment frequency increased from once every 3 months to once a month\nWrote validation for complex Software Architectures in a microservices framework and generated reports to analyze up to 11 different microservices.\nOnboarded new team members and provide KT of the applications under development\nDeveloped Automation projects using Python, Behave, XML, HTML5, Azure, and Selenium to test Dynamic Ad Insertion on multiple Video Streaming Platforms\nUsed Boto3 and various AWS services with Python to monitor, retrieve, process, and analyze logs\nRe-factored, maintained, and extended large existing monolithic Python code base\nReviewed and Managed Source code, and Resolved Merge Conflicts for multiple projects\nPerform End to End tests manually and automated the same process using Python with BDD\n\n\n\nStudent Researcher (Google ExploreCSR)\n\nStudied and applied various Machine Learning techniques for Image recognition\nUsed PyTorch’s Mask RCNN - an Image Recognition Neural Network model to analyze food images\nWon Third place by Presenting Analyses on State of the Art ML models in the poster competition\n\n\n\nTech Fellow (CodePath)\n\nDeveloped multiple complete iOS Applications and Projects following CodePath’s course\nTaught an iOS Development Course to 120+ students per CodePath guidelines with a team of 4 Instructors"
+  },
+  {
+    "objectID": "pages/resume.html#volunteer-work",
+    "href": "pages/resume.html#volunteer-work",
+    "title": "Rinchen Lama",
+    "section": "Volunteer Work",
+    "text": "Volunteer Work\n\nOrganizing Committee Member (PyData NYC)\n\nPlanned and Organized PyData NYC 2022 as the executive vice-chair\nIn charge of relations with sponsors and prize distribution to event attendees PyData NYC 2019\n\n\n\nOrganizer (Executive Chair)\n\nLed a team of 13 Volunteers to run an Online Hackathon, Hackeo, with 200+ participants successfully\nPlanned and Organized the entire event from recruiting the team to hosting and distributing prizes\nLed a Python workshop titled: “‘hello world!’ to automating tasks in minutes!”"
+  },
+  {
+    "objectID": "pages/work.html",
+    "href": "pages/work.html",
+    "title": "Work",
+    "section": "",
+    "text": "My Work at PyData NYC\nCurrently, I am chairing the PyData NYC Meetup Group. I work with an awesome team of volunteers from various stages of their careers from Students to Professionals. Together, we serve the PyData Community and bring awesome Educational and Networking events. Join the meetup group here.\nWe’re working to build the PyData NYC Meetup Website. You can Contribute to the website since it is Open Source. Help us build the website in this repository!\nThe PyData NYC Conference 2023 is underway in planning. We hope we can bring an awesome event this year. Volunteer forms will be out soon!\nIf you are generally interested in PyData and Open Source. Checkout PyData and NUMFocus\n\n\nI Stream\nI stream, you stream we all stream!\nOccasionally, I’ll stream myself doing some tech stuff or Playing chess. I am not a full-blown content creator yet but I’m on the path. Checkout my youtube channel!"
+  },
+  {
+    "objectID": "pages/work.html#my-work-at-pydata-nyc",
+    "href": "pages/work.html#my-work-at-pydata-nyc",
+    "title": "Work",
+    "section": "",
+    "text": "Currently, I am chairing the PyData NYC Meetup Group. I work with an awesome team of volunteers from various stages of their careers from Students to Professionals. Together, we serve the PyData Community and bring awesome Educational and Networking events. Join the meetup group here.\nWe’re working to build the PyData NYC Meetup Website. You can Contribute to the website since it is Open Source. Help us build the website in this repository!\nThe PyData NYC Conference 2023 is underway in planning. We hope we can bring an awesome event this year. Volunteer forms will be out soon!\nIf you are generally interested in PyData and Open Source. Checkout: PyData and NUMFocus"
+  },
+  {
+    "objectID": "pages/work.html#i-stream",
+    "href": "pages/work.html#i-stream",
+    "title": "Work",
+    "section": "I Stream",
+    "text": "I Stream\nI stream, you stream we all stream!\nOccasionally, I’ll stream myself doing some tech stuff or Playing chess. I am not a full-blown content creator yet but I’m on the path. Checkout my youtube channel!"
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project EONS (Education on Nuclear Science) is an initiave to educate the public in Nepal about (you guessed it…) Nuclar Energy. This is something I’m really passionate about because it holds the key to Energy Independence for my country. Since Energy is the “rawest” resource, it is crucial that Nepal becomes energy independent and self-sustaining."
+  },
+  {
+    "objectID": "pages/projects.html#checkout-my-projects",
+    "href": "pages/projects.html#checkout-my-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Project EONS (Education on Nuclear Science) is an initiave to educate the public in Nepal about (you guessed it…) Nuclar Energy. This is something I’m really passionate about because it holds the key to Energy Independence for my country. Since Energy is the “rawest” resource, it is crucial that Nepal becomes energy independent and self-sustaining."
+  }
+]

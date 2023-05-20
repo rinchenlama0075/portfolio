@@ -1,0 +1,22 @@
+---
+title: Work
+---
+
+### My Work at PyData NYC
+
+Currently, I am chairing the PyData NYC Meetup Group. I work with an awesome team of volunteers from various stages of their careers from Students to Professionals. Together, we serve the PyData Community and bring awesome Educational and Networking events. Join the meetup group [here](https://www.meetup.com/PyDataNYC/).
+
+We're working to build the PyData NYC Meetup Website. You can Contribute to the website since it is Open Source. Help us build the website in this [repository](https://github.com/PyData-NYC-meetup/NYCMeetupWebsite)!
+
+The PyData NYC Conference 2023 is underway in planning. We hope we can bring an awesome event this year. Volunteer forms will be out soon!
+
+If you are generally interested in PyData and Open Source. Checkout [PyData](https://www.pydata.org) and [NUMFocus](https://www.numfocus.org)
+
+
+### I Stream
+
+I stream, you stream we all stream!
+
+Occasionally, I'll stream myself doing some tech stuff or Playing chess. I am not a full-blown content creator yet but I'm on the path. Checkout my youtube channel!
+
+[![](../assets/youtube_icon.png){width=75}](https://www.youtube.com/channel/UC4vt3mUiYe-rx-xA1mFwLRw)

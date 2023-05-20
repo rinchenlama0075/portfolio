@@ -1,0 +1,19 @@
+---
+title: "Rinchen Lama"
+---
+
+## About me
+Passionately Curious about anything that catches my interest, I have gotten my hands dirty with a variety of subjects ranging from building web and mobile applications to trainig convolutional neural networks. Whether it be analyzing data to make decisions or building specific components within large codebases, I am the person who can get it done!
+I am a jack of all trades who can pick up any technology and deliver results. With my love for technology, I am looking to be involved in projects that would lead to human prosperity. 
+
+[Resume](pages/resume.qmd)
+
+
+## Blogs
+Recent Posts
+
+## Contact Me
+[![Email](assets/email_icon.png){width=100}](rruit0075@gmail.com)
+[![Github](assets/github_icon.png){width=100}](https://github.com/rinchenlama0075)
+[![Instagram](assets/instagram_icon.png){width=100}](https://www.instagram.com/rinchen_ruit/)
+[![Linkedin](assets/linkedin_icon.png){width=100}](https://www.linkedin.com/rinchenlama0075 )

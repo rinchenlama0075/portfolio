@@ -1,0 +1,27 @@
+project:
+  type: website
+  title: "rinchenlama"
+
+
+website:
+  favicon: assets/favicon.png
+  title: "Welcome!"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/work.qmd
+        text: Work
+      - href: pages/projects.qmd
+        text: Projects
+      - href: pages/resume.qmd
+        text: Resume
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
+
+
+
