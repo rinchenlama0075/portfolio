@@ -13,3 +13,7 @@ title: "Projects"
 Project EONS (Education on Nuclear Science) is an initiave to educate the public in Nepal about (you guessed it...) Nuclar Energy. This is something I'm really passionate about because it holds the key to Energy Independence for my country. Since Energy is the "rawest" resource, it is crucial that Nepal becomes energy independent and self-sustaining. 
 
 ![](../assets/nuclear_power_plant.jpeg){width=50% fig-align="center"}
+
+#### GTPN Hackathon
+The GTPN Hackathon is an initiative by [GTPN](https://www.empoweringvision.org/programmes/gtpn/) (Global Tibetan Professionals Network) to increase the involvement of young Tibetans in tech. I serve as the Sponsors Outreach Director for this event. I am really excited about working with individuals from the Tibetan and the broader Himalayan Community to bring this idea to life.
+The tentative date for the Hackathon is July 29-30. 
