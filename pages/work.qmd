@@ -19,4 +19,4 @@ I stream, you stream we all stream!
 
 Occasionally, I'll stream myself doing some tech stuff or Playing chess. I am not a full-blown content creator yet but I'm on the path. Checkout my youtube channel!
 
-[![](../assets/youtube_icon.png){width=75}](https://www.youtube.com/channel/UC4vt3mUiYe-rx-xA1mFwLRw)
+[![](../assets/youtube_icon.png){width=75 fig-align="left"}](https://www.youtube.com/channel/UC4vt3mUiYe-rx-xA1mFwLRw)
