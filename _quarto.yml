@@ -6,6 +6,7 @@ project:
 
 
 website:
+  google-analytics: "G-DKKMTCVJ79"
   favicon: assets/favicon.png
   title: "Welcome!"
   navbar:
