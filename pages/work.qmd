@@ -8,6 +8,8 @@ Currently, I am chairing the PyData NYC Meetup Group. I work with an awesome tea
 
 We're working to build the PyData NYC Meetup Website. You can Contribute to the website since it is Open Source. Help us build the website in this [repository](https://github.com/PyData-NYC-meetup/NYCMeetupWebsite)!
 
+[This is the Website I'm building](https://pydata-nyc-meetup.github.io/)
+
 The PyData NYC Conference 2023 is underway in planning. We hope we can bring an awesome event this year. Volunteer forms will be out soon!
 
 If you are generally interested in PyData and Open Source. Checkout [PyData](https://www.pydata.org) and [NUMFocus](https://www.numfocus.org)
