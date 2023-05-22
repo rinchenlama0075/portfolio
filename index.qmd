@@ -10,7 +10,7 @@ I am a jack of all trades who can pick up any technology and deliver results. Wi
 
 
 ## Blogs
-Recent Posts
+[Hackeo](blogs/Hackeo.qmd)
 
 ## Contact Me
 [![Email](assets/email_icon.png){width=100}](rruit0075@gmail.com)
