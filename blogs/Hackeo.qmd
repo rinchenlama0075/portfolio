@@ -1,0 +1,49 @@
+---
+title: Hac/<eo
+---
+
+# Title: Organizing [Hac/<eo](https://hack.takeo.ai/): A Thrilling 3-Day Hackathon Adventure!
+
+## Recruiting the Team: Assembling the Dream Team
+#### Gather 'Round, Folks! Let's Hack Together!
+Oh, the joy of working with friends! When I decided to organize the epic [Hac/<eo](https://hack.takeo.ai/) Hackathon in August 2022, I knew I had to bring together a team that shared my passion. With a little help from my roommate, friends, and their friends, we formed an unstoppable squad: me as the Chair, Aachal as the Vice Chair, and the brilliant minds of Mohit, Shubham, Ameet, Palisha, Sneha, and Tenzin. We were ready to make magic happen!
+
+## Finding Sponsorship: The Magic of Unexpected Heroes
+#### A Setback from MLH? No Worries, We Have [Takeo](https://www.takeo.ai/)!
+We hit a tiny roadblock when [MLH](https://www.mlh.io) denied our application for sponsorship. But just when things seemed grim, a hero emerged! My employer, the amazing company [Takeo](https://www.takeo.ai/), came to the rescue and offered to sponsor the entire event. Talk about a stroke of luck! With their support, we knew [Hac/<eo](https://hack.takeo.ai/) was destined for greatness.
+
+## Logistics: The Virtual Voyage
+#### Navigating the Challenges of Virtual Events
+Ah, the joys and challenges of organizing a virtual event! We dove headfirst into the logistics, determined to make [Hac/<eo](https://hack.takeo.ai/) a seamless experience for participants. Takeo's talented development team created a fantastic website that became our virtual hub. We relied on DevPost for registrations and used Discord for smooth communication throughout the hackathon. We even had exciting speakers and tutorials planned for the first two days to empower and inspire our participants!
+#### Prizes
+Every great hackathon needs winners and prizes, right? We decided to host [Hac/<eo](https://hack.takeo.ai/) with three exciting categories: Web, App, and Data. With so many fantastic ideas and limited resources, selecting the ultimate prizes was quite the challenge. We knew that the prizes would be a significant factor in the event's success, so we boldly requested a budget increase from our sponsor. Lo and behold, our efforts paid off! Here's what we managed to secure:
+
+#### First Prize: Oculus Meta Quest (2)
+
+#### Second Prize: Marshall Major IV wireless Bluetooth Headphones
+
+#### Category Winner Prizes: Velocifire Portable Keyboards
+
+## Marketing: Unleashing the Hackathon Fever
+#### From Small Steps to a Roaring Crowd
+Spreading the word and finding participants proved to be quite the adventure. We tackled the challenge head-on, leveraging the power of Instagram, Facebook, and Reddit. But we didn't stop there! We went old-school and printed out flyers to plaster the town with [Hac/<eo](https://hack.takeo.ai/) excitement. Our determination paid off, and before we knew it, we had a staggering 198 participants! Can you believe it? Our initial goal was to reach 75-100, but we far surpassed our expectations. The hype for [Hac/<eo](https://hack.takeo.ai/) was off the charts!
+
+## Day of: Let the Hackathon Extravaganza Begin!
+#### Lights, Camera, Hack!
+The moment we had all been waiting for arrived – the day of [Hac/<eo](https://hack.takeo.ai/) was finally here! With me donning the hat of an enthusiastic emcee, we kicked off the event in style. We set the stage for a whirlwind of coding adventures, inspiring talks, and mind-blowing tutorials. The energy was electric, and the participants were raring to go. The air was thick with excitement as projects began taking shape. Oh, the possibilities were endless!
+
+
+## Winners And More!
+#### Go Give love to their projects!
+It would not be fair for me just reveal the winners in this blog! Go check them out on [Devpost](https://hackeo.devpost.com/project-gallery) and give them love!
+
+Honorable Mention to [CodeDuels](https://devpost.com/software/codeduels) for bringing "CodeWars" which was a side-event to life in an amazing way! 
+
+## Wrap Up: A Heartfelt Thanks and Memories Forever
+#### A Hackathon to Remember, Gratitude Unending
+As the curtain fell on [Hac/<eo](https://hack.takeo.ai/), we couldn't help but feel an overwhelming sense of gratitude. We had come together as a community of like-minded individuals, fueled by passion and determination. We owe our heartfelt thanks to the awe-inspiring speakers, the dedicated participants who poured their souls into their projects, our incredible sponsors who made it all possible, and, last but certainly not least, the exceptional organizing team that worked tirelessly to bring [Hac/<eo](https://hack.takeo.ai/) to life. We will forever cherish the memories we made during those three exhilarating days.
+
+So, that's the story of how we organized the extraordinary [Hac/<eo](https://hack.takeo.ai/) Hackathon. It was a rollercoaster ride filled with challenges, triumphs, and a whole lot of fun. Until our next adventure, keep hacking and pushing the boundaries of innovation!
+
+## Coming Soon....
+#### [Talks and Tutorials from Hac/<eo](TalksAndTutorialsFromHackeo.qmd)

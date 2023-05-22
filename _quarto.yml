@@ -18,7 +18,20 @@ website:
         text: Projects
       - href: pages/resume.qmd
         text: Resume
-  
+  sidebar:
+    # - title: Contact Me
+    logo: assets/Rinchen Lama.jpeg
+    alt: "Rinchen's best looking photo"
+    tools: 
+      - icon: envelope-at-fill
+        href: rruit0075@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/rinchenlama0075
+      - icon: instagram
+        href: https://www.instagram.com/rinchen_ruit/
+      - icon: github
+        href: https://github.com/rinchenlama0075
+    
 format:
   html:
     theme:
