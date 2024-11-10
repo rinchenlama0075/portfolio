@@ -9,6 +9,11 @@ title: "Projects"
 
 [![](../assets/github_icon.png){width=100 fig-align="left"}](https://github.com/rinchenlama0075)
 
+#### Bodhicharya Foundation
+A simple and elegant website for a Non Profit made on Webflow. I learnt a great deal about DNS, SEO, managing Domains and a fair bit of webflow for this project. 
+
+![](../assets/bodhicharya_site.png){width=70% fig-align="center"}
+
 #### EONS
 Project EONS (Education on Nuclear Science) is an initiave to educate the public in Nepal about (you guessed it...) Nuclar Energy. This is something I'm really passionate about because it holds the key to Energy Independence for my country. Since Energy is the "rawest" resource, it is crucial that Nepal becomes energy independent and self-sustaining. 
 
